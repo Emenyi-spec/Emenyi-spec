@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Emenyi-spec
 - 👀 I’m interested in Data Science and machine learning
 - 🌱 I’m currentowns final year Software engineering student and learning Data Analytics on my own
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on data analytics and Business analytics projects
 - 📫 How to reach me 📧nellyemenyi@gmail.com
 
 <!---
